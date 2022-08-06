@@ -8,5 +8,10 @@ public class First {
     void firstTest(){
         assertTrue(3>2);
     }
+
+    @Test
+    void firstTest2(){
+        assertTrue(3>2);
+    }
 }
 
