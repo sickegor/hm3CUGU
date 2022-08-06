@@ -13,6 +13,7 @@ public class First {
     @Test
     void firstTest2(){
         assertTrue(3>=2);
+        assertTrue(3>-2);
     }
 }
 
